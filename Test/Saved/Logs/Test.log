@@ -2313,3 +2313,384 @@ Please see Output Log for details.
 [2023.03.30-21.02.55:090][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.03.30-21.03.01:732][196]Cmd: TRANSACTION UNDO
 [2023.03.30-21.03.01:732][196]LogEditorTransaction: Undo Move Elements
+[2023.03.30-21.06.23:475][972]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Meshes/bed.fbx)
+[2023.03.30-21.06.23:491][972]LogFbx: Loading FBX Scene from ../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Meshes/bed.fbx
+[2023.03.30-21.06.23:536][972]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-21.06.32:751][972]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-21.06.32:888][972]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.30-21.06.32:900][972]LogTexture: Display: Building textures: /Game/Meshes/bed.bed (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.30-21.06.32:903][972]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes\bed.fbm
+[2023.03.30-21.06.33:021][972]LogStaticMesh: Display: Building static mesh bed_victorian_bed_wood_bed_wood_material_0...
+[2023.03.30-21.06.33:182][972]LogStaticMesh: Built static mesh [0.16s] /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0
+[2023.03.30-21.06.33:245][972]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes\bed.fbm
+[2023.03.30-21.06.33:245][972]LogFbx: Display: Triangulating static mesh victorian_bed_mattres_bed_mattres_material_0
+[2023.03.30-21.06.33:294][972]LogStaticMesh: Display: Building static mesh bed_victorian_bed_mattres_bed_mattres_material_0...
+[2023.03.30-21.06.33:336][972]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0
+[2023.03.30-21.06.33:365][972]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes\bed.fbm
+[2023.03.30-21.06.33:431][972]LogStaticMesh: Display: Building static mesh bed_pollows_bed_pillow_material_0...
+[2023.03.30-21.06.33:552][972]LogStaticMesh: Built static mesh [0.12s] /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0
+[2023.03.30-21.06.33:598][972]LogFbx: Display: Triangulating static mesh Cone
+[2023.03.30-21.06.33:672][972]LogStaticMesh: Display: Building static mesh bed_Cone...
+[2023.03.30-21.06.33:710][972]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/bed_Cone.bed_Cone
+[2023.03.30-21.06.33:727][972]LogFbx: Display: Triangulating static mesh Sphere.001
+[2023.03.30-21.06.34:348][972]LogStaticMesh: Display: Building static mesh bed_Sphere_001...
+[2023.03.30-21.06.35:697][972]LogStaticMesh: Built static mesh [1.35s] /Game/Meshes/bed_Sphere_001.bed_Sphere_001
+[2023.03.30-21.06.35:833][972]FBXImport: FBX File Loading: Found name clash, node 'RootNode' was renamed to 'RootNode1' 
+[2023.03.30-21.06.35:833][972]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'bed' was renamed 'bed_ncl1_1' 
+[2023.03.30-21.06.35:833][972]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'bed' was renamed 'bed_ncl1_2' 
+[2023.03.30-21.06.35:833][972]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'bed' was renamed 'bed_ncl1_3' 
+[2023.03.30-21.06.35:833][972]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-21.06.38:901][102]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-21.06.38:906][102]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-21.06.49:671][481]LogContentBrowser: Deferred new asset file creation: bed_Mat
+[2023.03.30-21.06.49:678][481]LogContentBrowser: Creating deferred item: bed_Mat
+[2023.03.30-21.06.49:689][482]LogContentBrowser: Renaming the item being created (Deferred Item: bed_Mat).
+[2023.03.30-21.06.51:383][547]LogContentBrowser: Attempting asset rename: bed_Mat -> bed_Mat
+[2023.03.30-21.06.51:434][547]LogContentBrowser: End creating deferred item bed_Mat
+[2023.03.30-21.06.52:233][572]LogShaderCompilers: Display: ================================================
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Total job queries 7255, among them cache hits 19 (0.26%)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Tracking 7233 distinct input hashes that result in 5261 distinct outputs (72.74%)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: RAM used: 49.67 MB (0.05 GB) of 819.20 MB (0.80 GB) budget. Usage: 6.06%
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Shaders Compiled: 7233
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Jobs assigned 7236, completed 7233 (99.96%)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Average time worker was idle: 30.40 s
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Time job spent in pending queue: average 225.89 s, longest 476.38 s
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Job execution time: average 6.03 s, max 32.24 s
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Job life time (pending + execution): average 232.02 s, max 487.26
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 547.08 s
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Jobs were issued in 1014 batches (only local compilation was used), average 7.14 jobs/batch
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Average processing rate: 13.22 jobs/sec
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Total thread time: 4483.00 s
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Total thread preprocess time: 236.85 s
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Percentage time preprocessing: 5.28%
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Effective parallelization: 8.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 11.01 sec, max 23.96 sec, min 2.09 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    2 times, average 7.95 sec, max 9.01 sec, min 6.89 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.76 sec, max 9.51 sec, min 2.12 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.97 sec, max 6.05 sec, min 2.67 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.52% of total time (compiled  150 times, average 1.95 sec, max 2.45 sec, min 1.65 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.48% of total time (compiled  192 times, average 1.05 sec, max 1.79 sec, min 0.65 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 3.74% of total time (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:                 FLumenScreenProbeGatherHardwareRayTracingRGS - 3.28% of total time (compiled   64 times, average 2.30 sec, max 4.23 sec, min 0.93 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 2.59% of total time (compiled  256 times, average 0.45 sec, max 0.78 sec, min 0.29 sec)
+[2023.03.30-21.06.52:234][572]LogShaderCompilers: Display: ================================================
+[2023.03.30-21.06.53:725][625]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/bed_Cone.bed_Cone
+[2023.03.30-21.06.54:158][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-21.06.54:413][625]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-21.07.32:299][474]LogSlate: Window 'bed_Cone' being destroyed
+[2023.03.30-21.07.32:332][474]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-21.07.32:332][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.07.39:175][636]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0
+[2023.03.30-21.07.39:308][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-21.07.39:557][636]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-21.08.04:433][916]Cmd: TRANSACTION UNDO
+[2023.03.30-21.08.04:433][916]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.03.30-21.08.04:987][918]Cmd: TRANSACTION UNDO
+[2023.03.30-21.08.04:987][918]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.30-21.08.05:467][919]Cmd: TRANSACTION UNDO
+[2023.03.30-21.08.05:467][919]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.03.30-21.08.06:180][920]Cmd: TRANSACTION UNDO
+[2023.03.30-21.08.06:180][920]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.30-21.08.06:862][923]Cmd: TRANSACTION UNDO
+[2023.03.30-21.08.06:862][923]LogEditorTransaction: Undo Move Elements
+[2023.03.30-21.08.08:182][932]LogSlate: Window 'bed_pollows_bed_pillow_material_0' being destroyed
+[2023.03.30-21.08.08:326][932]LogSlate: Window 'bed_pollows_bed_pillow_material_0' being destroyed
+[2023.03.30-21.08.08:356][932]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-21.08.08:356][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.08.44:444][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.30-21.08.44:446][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Layout' took 0.014
+[2023.03.30-21.08.44:446][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0] ([1] browsable assets)...
+[2023.03.30-21.08.44:477][768]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0]
+[2023.03.30-21.08.44:477][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0]
+[2023.03.30-21.08.44:491][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0_Auto6
+[2023.03.30-21.08.44:491][768]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/bed_victorian_bed_wood_bed_wood_2F5CC1C54C51B0328366648CE0CCC7BC.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0_Auto6.uasset'
+[2023.03.30-21.08.44:492][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0] ([1] browsable assets)...
+[2023.03.30-21.08.44:522][768]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0]
+[2023.03.30-21.08.44:522][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0]
+[2023.03.30-21.08.44:528][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0_Auto6
+[2023.03.30-21.08.44:528][768]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/bed_victorian_bed_mattres_bed_ma8DCB6BDE4354C9F019C90393C9BF89E6.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0_Auto6.uasset'
+[2023.03.30-21.08.44:529][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/bed_Sphere_001] ([1] browsable assets)...
+[2023.03.30-21.08.44:540][768]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/bed_Sphere_001.bed_Sphere_001]
+[2023.03.30-21.08.44:540][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/bed_Sphere_001]
+[2023.03.30-21.08.44:554][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/bed_Sphere_001_Auto6
+[2023.03.30-21.08.44:554][768]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/bed_Sphere_001_Auto6EB8BABEE4730C2F1C91D1BB12B7A3EBF.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/bed_Sphere_001_Auto6.uasset'
+[2023.03.30-21.08.44:555][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/bed_pollows_bed_pillow_material_0] ([1] browsable assets)...
+[2023.03.30-21.08.44:565][768]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0]
+[2023.03.30-21.08.44:565][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/bed_pollows_bed_pillow_material_0]
+[2023.03.30-21.08.44:581][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/bed_pollows_bed_pillow_material_0_Auto6
+[2023.03.30-21.08.44:581][768]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/bed_pollows_bed_pillow_material_9EC255964F385C654F7BB38B199035A8.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/bed_pollows_bed_pillow_material_0_Auto6.uasset'
+[2023.03.30-21.08.44:582][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/bed_Cone] ([1] browsable assets)...
+[2023.03.30-21.08.44:593][768]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/bed_Cone.bed_Cone]
+[2023.03.30-21.08.44:593][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/bed_Cone]
+[2023.03.30-21.08.44:598][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/bed_Cone_Auto6
+[2023.03.30-21.08.44:598][768]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/bed_Cone_Auto6F64095F64DAC1D68313B15A029504A86.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/bed_Cone_Auto6.uasset'
+[2023.03.30-21.08.44:599][768]LogFileHelpers: Auto-saving content packages took 0.154
+[2023.03.30-21.08.59:994][103]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0
+[2023.03.30-21.09.00:234][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-21.09.00:505][103]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-21.09.06:446][181]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0) ...
+[2023.03.30-21.09.10:494][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.09.12:802][211]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.30-21.09.13:234][211]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005076s (0.435979s overbudget)
+[2023.03.30-21.09.13:313][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/bed_Mat" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/bed_Mat.uasset" SILENT=true
+[2023.03.30-21.09.13:316][211]LogSavePackage: Moving output files for package: /Game/Meshes/bed_Mat
+[2023.03.30-21.09.13:316][211]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/bed_MatAB79FB4D48F9A2253F7DDFB4F19271AE.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/bed_Mat.uasset'
+[2023.03.30-21.09.13:323][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.83 sec (total: 15.3 sec)
+[2023.03.30-21.09.13:326][211]AssetCheck: New page: Asset Save: bed_Mat
+[2023.03.30-21.09.13:327][211]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/bed_Mat.bed_Mat
+[2023.03.30-21.09.17:720][245]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0
+[2023.03.30-21.09.17:726][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-21.09.18:325][245]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: ================================================
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Total job queries 7331, among them cache hits 20 (0.27%)
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Tracking 7311 distinct input hashes that result in 5290 distinct outputs (72.36%)
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: RAM used: 50.16 MB (0.05 GB) of 819.20 MB (0.80 GB) budget. Usage: 6.12%
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Shaders Compiled: 7311
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Jobs assigned 7311, completed 7311 (100.00%)
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Average time worker was idle: 31.02 s
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Time job spent in pending queue: average 223.58 s, longest 476.38 s
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Job execution time: average 5.98 s, max 32.24 s
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Job life time (pending + execution): average 229.56 s, max 487.26
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 557.52 s
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Jobs were issued in 1089 batches (only local compilation was used), average 6.71 jobs/batch
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Average processing rate: 13.11 jobs/sec
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Total thread time: 4532.70 s
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Total thread preprocess time: 239.73 s
+[2023.03.30-21.09.53:820][893]LogShaderCompilers: Display: Percentage time preprocessing: 5.29%
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display: Effective parallelization: 8.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 11.01 sec, max 23.96 sec, min 2.09 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    2 times, average 7.95 sec, max 9.01 sec, min 6.89 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.76 sec, max 9.51 sec, min 2.12 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.97 sec, max 6.05 sec, min 2.67 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.44% of total time (compiled  150 times, average 1.95 sec, max 2.45 sec, min 1.65 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.43% of total time (compiled  192 times, average 1.05 sec, max 1.79 sec, min 0.65 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 3.70% of total time (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:                 FLumenScreenProbeGatherHardwareRayTracingRGS - 3.25% of total time (compiled   64 times, average 2.30 sec, max 4.23 sec, min 0.93 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 2.56% of total time (compiled  256 times, average 0.45 sec, max 0.78 sec, min 0.29 sec)
+[2023.03.30-21.09.53:821][893]LogShaderCompilers: Display: ================================================
+[2023.03.30-21.10.00:679][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9F340) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.000000 seconds.
+[2023.03.30-21.10.00:705][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9EFC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.025417 seconds.
+[2023.03.30-21.10.00:707][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9E460) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.026960 seconds.
+[2023.03.30-21.10.00:707][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9E0E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.027024 seconds.
+[2023.03.30-21.10.00:707][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9DC80) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.027041 seconds.
+[2023.03.30-21.10.00:707][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9E9A0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.026080 seconds.
+[2023.03.30-21.10.00:707][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9E8C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.026038 seconds.
+[2023.03.30-21.10.00:708][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9E540) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.026092 seconds.
+[2023.03.30-21.10.00:708][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9E1C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.025679 seconds.
+[2023.03.30-21.10.00:749][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9DD60) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.066145 seconds.
+[2023.03.30-21.10.00:751][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E93800) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.067919 seconds.
+[2023.03.30-21.10.00:752][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9BEC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.067812 seconds.
+[2023.03.30-21.10.00:752][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E96D60) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.066268 seconds.
+[2023.03.30-21.10.00:752][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E91960) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.065604 seconds.
+[2023.03.30-21.10.00:752][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E95B00) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.065412 seconds.
+[2023.03.30-21.10.00:756][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9C320) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.068816 seconds.
+[2023.03.30-21.10.00:758][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9B8A0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.069284 seconds.
+[2023.03.30-21.10.00:761][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E995A0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.070324 seconds.
+[2023.03.30-21.10.00:777][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9A100) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.085151 seconds.
+[2023.03.30-21.10.00:777][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E946E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.085554 seconds.
+[2023.03.30-21.10.00:779][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E92CA0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.086581 seconds.
+[2023.03.30-21.10.00:779][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E923E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.085781 seconds.
+[2023.03.30-21.10.00:779][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E91420) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.085741 seconds.
+[2023.03.30-21.10.00:780][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E91F80) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.086866 seconds.
+[2023.03.30-21.10.00:781][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E95A20) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.086646 seconds.
+[2023.03.30-21.10.00:907][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E96200) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.212272 seconds.
+[2023.03.30-21.10.00:910][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E980A0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.214941 seconds.
+[2023.03.30-21.10.00:910][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E97540) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.215285 seconds.
+[2023.03.30-21.10.00:911][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E91180) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.212664 seconds.
+[2023.03.30-21.10.00:911][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E915E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.212585 seconds.
+[2023.03.30-21.10.00:912][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9AE20) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.212837 seconds.
+[2023.03.30-21.10.00:913][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E901C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.209969 seconds.
+[2023.03.30-21.10.00:913][946]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E92220) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.209397 seconds.
+[2023.03.30-21.10.00:955][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E99680) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.250229 seconds.
+[2023.03.30-21.10.00:957][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E94D00) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.239334 seconds.
+[2023.03.30-21.10.00:957][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E96C80) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.237891 seconds.
+[2023.03.30-21.10.00:957][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E92BC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.237807 seconds.
+[2023.03.30-21.10.00:957][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E95E80) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.237195 seconds.
+[2023.03.30-21.10.00:957][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E933A0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.237125 seconds.
+[2023.03.30-21.10.00:957][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E93AA0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.237152 seconds.
+[2023.03.30-21.10.00:957][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E94980) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.236699 seconds.
+[2023.03.30-21.10.00:997][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E91EA0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.275642 seconds.
+[2023.03.30-21.10.00:999][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9D2E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.259282 seconds.
+[2023.03.30-21.10.00:999][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E94C20) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.257613 seconds.
+[2023.03.30-21.10.00:999][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9CCC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.257524 seconds.
+[2023.03.30-21.10.00:999][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E90380) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.256765 seconds.
+[2023.03.30-21.10.00:999][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E938E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.256716 seconds.
+[2023.03.30-21.10.00:999][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E940C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.256706 seconds.
+[2023.03.30-21.10.00:999][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E93560) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.256091 seconds.
+[2023.03.30-21.10.01:037][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E91880) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.292489 seconds.
+[2023.03.30-21.10.01:039][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E94DE0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.293980 seconds.
+[2023.03.30-21.10.01:039][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E97700) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.294012 seconds.
+[2023.03.30-21.10.01:039][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E96740) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.293941 seconds.
+[2023.03.30-21.10.01:040][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E963C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.293215 seconds.
+[2023.03.30-21.10.01:040][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E95320) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.293246 seconds.
+[2023.03.30-21.10.01:040][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E93E20) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.293239 seconds.
+[2023.03.30-21.10.01:040][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9BDE0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.292887 seconds.
+[2023.03.30-21.10.01:080][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E99F40) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.331422 seconds.
+[2023.03.30-21.10.01:082][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E98340) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.333030 seconds.
+[2023.03.30-21.10.01:082][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E90FC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.331846 seconds.
+[2023.03.30-21.10.01:082][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E90D20) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.331747 seconds.
+[2023.03.30-21.10.01:083][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E94520) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.331260 seconds.
+[2023.03.30-21.10.01:083][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E92E60) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.331171 seconds.
+[2023.03.30-21.10.01:083][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E94EC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.331184 seconds.
+[2023.03.30-21.10.01:083][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E994C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.330771 seconds.
+[2023.03.30-21.10.01:123][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E98DC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.369973 seconds.
+[2023.03.30-21.10.01:125][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E95F60) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.371603 seconds.
+[2023.03.30-21.10.01:125][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9B520) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.371653 seconds.
+[2023.03.30-21.10.01:126][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9D740) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.371581 seconds.
+[2023.03.30-21.10.01:126][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9AAA0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.371434 seconds.
+[2023.03.30-21.10.01:126][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E916C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.370771 seconds.
+[2023.03.30-21.10.01:126][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9B7C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.370761 seconds.
+[2023.03.30-21.10.01:126][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9B1A0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.370724 seconds.
+[2023.03.30-21.10.01:126][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9A3A0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.370360 seconds.
+[2023.03.30-21.10.01:166][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E99BC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.409355 seconds.
+[2023.03.30-21.10.01:168][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9AF00) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.411040 seconds.
+[2023.03.30-21.10.01:168][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9B440) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.411049 seconds.
+[2023.03.30-21.10.01:169][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9C780) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.410993 seconds.
+[2023.03.30-21.10.01:169][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9CB00) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.410863 seconds.
+[2023.03.30-21.10.01:169][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9D9E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.410248 seconds.
+[2023.03.30-21.10.01:169][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9BA60) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.410225 seconds.
+[2023.03.30-21.10.01:169][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E99E60) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.401815 seconds.
+[2023.03.30-21.10.01:169][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E99220) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.393924 seconds.
+[2023.03.30-21.10.01:209][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9D580) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.426970 seconds.
+[2023.03.30-21.10.01:211][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9C4E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.421258 seconds.
+[2023.03.30-21.10.01:211][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E97460) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.412912 seconds.
+[2023.03.30-21.10.01:211][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828840800) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.407509 seconds.
+[2023.03.30-21.10.01:212][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9A720) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.398530 seconds.
+[2023.03.30-21.10.01:212][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E99760) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.391357 seconds.
+[2023.03.30-21.10.01:212][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9B0C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.382627 seconds.
+[2023.03.30-21.10.01:212][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9C5C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.372164 seconds.
+[2023.03.30-21.10.01:212][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9C860) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.364775 seconds.
+[2023.03.30-21.10.01:248][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9AFE0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.390010 seconds.
+[2023.03.30-21.10.01:250][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E9AC60) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.384709 seconds.
+[2023.03.30-21.10.01:250][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E97E00) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.365388 seconds.
+[2023.03.30-21.10.01:250][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E97FC0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.358373 seconds.
+[2023.03.30-21.10.01:250][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E97D20) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.349252 seconds.
+[2023.03.30-21.10.01:250][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E99060) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.341306 seconds.
+[2023.03.30-21.10.01:250][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E969E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.331241 seconds.
+[2023.03.30-21.10.01:251][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E95860) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.324707 seconds.
+[2023.03.30-21.10.01:287][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E90B60) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.360926 seconds.
+[2023.03.30-21.10.01:289][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E92A00) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.360776 seconds.
+[2023.03.30-21.10.01:289][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E900E0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.359615 seconds.
+[2023.03.30-21.10.01:289][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E94280) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.359517 seconds.
+[2023.03.30-21.10.01:289][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E93020) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.358511 seconds.
+[2023.03.30-21.10.01:290][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E95780) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.358485 seconds.
+[2023.03.30-21.10.01:290][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E932C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.358426 seconds.
+[2023.03.30-21.10.01:290][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E909A0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.357946 seconds.
+[2023.03.30-21.10.01:327][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E90A80) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.394362 seconds.
+[2023.03.30-21.10.01:328][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E90C40) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.395348 seconds.
+[2023.03.30-21.10.01:329][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E908C0) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.388037 seconds.
+[2023.03.30-21.10.01:329][947]LogD3D12RHI: Warning: GPU timeout: A payload (0x000005E828E91500) on the [0x000005E7E58C0A80, 3D] queue has not completed after 5.379275 seconds.
+[2023.03.30-21.10.18:465][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.10.18:818][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1866558858 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/9/D9/8LHSB7P9WEOSL7ZANDS26A.PackageMetaData in its package
+[2023.03.30-21.10.18:818][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1866543857 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/5/FS/XVDY0FKDAEAFC8OVY0K3FL.PackageMetaData in its package
+[2023.03.30-21.10.18:818][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1866527856 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/4/BZ/KFSCPARNHH84IKU05G8ZAK.PackageMetaData in its package
+[2023.03.30-21.10.18:818][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1866509855 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/D/J7/79JCLNL4K5RXGZ12CX5CA4.PackageMetaData in its package
+[2023.03.30-21.10.18:818][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1133070853 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/B/Z7/22HUU1HINA9CJFYQ6O9ASW.PackageMetaData in its package
+[2023.03.30-21.10.18:818][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575B7401_1489852675 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/E/N7/3K22N9SWLQ70U759MXRFEI.PackageMetaData in its package
+[2023.03.30-21.10.18:819][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.30-21.10.18:830][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.30-21.10.18:837][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-21.10.18:841][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/0/BY/RXHYX5KOV5FGE4ACEMG77W
+[2023.03.30-21.10.18:842][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/RXHYX5KOV5FGE4ACEMG77WE5EA6AFA48514374635E2796A4FBD524.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/0/BY/RXHYX5KOV5FGE4ACEMG77W.uasset'
+[2023.03.30-21.10.18:846][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/8/3W/TJHDCMBBPDLYOEOBA0FGSB
+[2023.03.30-21.10.18:846][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/TJHDCMBBPDLYOEOBA0FGSBD3AE199B440836BB06726396FF894CBC.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/8/3W/TJHDCMBBPDLYOEOBA0FGSB.uasset'
+[2023.03.30-21.10.18:849][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/D/AH/YJVLE001H5H4MH7SYKIG2F
+[2023.03.30-21.10.18:849][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/YJVLE001H5H4MH7SYKIG2FCCC51894474A69F457AB85967BCA0725.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/D/AH/YJVLE001H5H4MH7SYKIG2F.uasset'
+[2023.03.30-21.10.18:850][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/9/77/JW9E0QY76SYPW005TOK6DI
+[2023.03.30-21.10.18:850][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/JW9E0QY76SYPW005TOK6DIF83FA41A4C2DB9F503ABAFA37CE3993E.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/9/77/JW9E0QY76SYPW005TOK6DI.uasset'
+[2023.03.30-21.10.18:852][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/D/I6/FZDOL3T5XE7BDD0H8C81BR
+[2023.03.30-21.10.18:852][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/FZDOL3T5XE7BDD0H8C81BRB61C98054D326C88B75F5C9113BF7481.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/D/I6/FZDOL3T5XE7BDD0H8C81BR.uasset'
+[2023.03.30-21.10.18:854][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/B/C3/NTBFXNL8HCX4MRBXUFHD8O
+[2023.03.30-21.10.18:854][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/NTBFXNL8HCX4MRBXUFHD8O1085A2C140FBC39812CAD08E90343304.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/B/C3/NTBFXNL8HCX4MRBXUFHD8O.uasset'
+[2023.03.30-21.10.18:856][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/7/GH/PHZ7RQGI0KP3FAKFW5NEVJ
+[2023.03.30-21.10.18:856][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/PHZ7RQGI0KP3FAKFW5NEVJ8FCBB4C740AC8B4E32A353A022CD92E8.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/7/GH/PHZ7RQGI0KP3FAKFW5NEVJ.uasset'
+[2023.03.30-21.10.18:858][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/9/KN/AVI1TMAWOQI4FXLGFIYT0D
+[2023.03.30-21.10.18:858][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/AVI1TMAWOQI4FXLGFIYT0DE35738E24E69941F7163568A73F01D88.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/9/KN/AVI1TMAWOQI4FXLGFIYT0D.uasset'
+[2023.03.30-21.10.18:860][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/4/GG/S63TB6L0QZDYO2I5ESRSU1
+[2023.03.30-21.10.18:860][692]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/S63TB6L0QZDYO2I5ESRSU18F07CBED4316279E966BBD8063ECF7E6.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/4/GG/S63TB6L0QZDYO2I5ESRSU1.uasset'
+[2023.03.30-21.10.18:870][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 404 ms (total: 15.7 sec)
+[2023.03.30-21.10.18:883][692]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1383132854
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575B7401_1489836674
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575B7401_1489819673
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1966502039
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1966487038
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1966472037
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1966451036
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2023.03.30-21.10.18:883][692]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1454345035
+[2023.03.30-21.10.18:890][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A157C26201_1820028800 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/4/TN/YV4LIE8CY5BXRPALZ39X0Y.PackageMetaData in its package
+[2023.03.30-21.10.18:891][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A157C36201_1122228981 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/6/RF/U1HZH3ER6DYZ797PYLIJBW.PackageMetaData in its package
+[2023.03.30-21.10.18:891][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A157C26201_2081295804 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/6/IN/WM71PY3KZ0Z0GS8U69LZY1.PackageMetaData in its package
+[2023.03.30-21.10.18:891][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A157C26201_1612625798 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/5/86/B3AI1GHWQZ6D0S2JIUF0LB.PackageMetaData in its package
+[2023.03.30-21.10.18:891][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A157C26201_1456832797 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/2/W3/O5GUJ6C1L5EEEOXLCZ2E7N.PackageMetaData in its package
+[2023.03.30-21.10.18:891][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A157B96401_2084533326 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/E/TV/LGTYIMB09ZOVQUH8BXUFMN.PackageMetaData in its package
+[2023.03.30-21.10.18:891][692]LogWorldPartition: Actor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A157B96401_2105458327 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Layout/5/YC/0ZTH8RGUCUQ0WSJ3IVP7MD.PackageMetaData in its package
+[2023.03.30-21.10.18:891][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.30-21.10.18:915][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.30-21.10.31:768][855]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0
+[2023.03.30-21.10.31:803][855]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-21.10.32:151][855]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-21.10.43:001][  3]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/bed_pollows_bed_pillow_material_0) ...
+[2023.03.30-21.10.46:344][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.10.46:675][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/pink_pillow_Mat" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/pink_pillow_Mat.uasset" SILENT=true
+[2023.03.30-21.10.46:677][ 26]LogSavePackage: Moving output files for package: /Game/Meshes/pink_pillow_Mat
+[2023.03.30-21.10.46:677][ 26]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/pink_pillow_MatAB7ED9FE4F85C08DE235AAB23C0F825D.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/pink_pillow_Mat.uasset'
+[2023.03.30-21.10.46:685][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 340 ms (total: 16.1 sec)
+[2023.03.30-21.10.46:687][ 26]AssetCheck: New page: Asset Save: pink_pillow_Mat
+[2023.03.30-21.10.46:687][ 26]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/pink_pillow_Mat.pink_pillow_Mat
+[2023.03.30-21.10.50:857][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.10.51:449][ 59]LogSavePackage: Moving output files for package: /Game/Meshes/bed_pollows_bed_pillow_material_0
+[2023.03.30-21.10.51:449][ 59]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/bed_pollows_bed_pillow_material_6730B0F04E48937CADC57E88CC1DA7EF.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/bed_pollows_bed_pillow_material_0.uasset'
+[2023.03.30-21.10.51:456][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 599 ms (total: 16.7 sec)
+[2023.03.30-21.10.51:459][ 59]AssetCheck: New page: Asset Save: bed_pollows_bed_pillow_material_0
+[2023.03.30-21.10.51:459][ 59]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0
+[2023.03.30-21.10.52:830][ 71]LogSlate: Window 'bed_pollows_bed_pillow_material_0' being destroyed
+[2023.03.30-21.10.52:972][ 71]LogSlate: Window 'bed_pollows_bed_pillow_material_0' being destroyed
+[2023.03.30-21.10.53:006][ 71]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-21.10.53:006][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.10.53:044][ 71]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-21.10.53:044][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.10.53:079][ 71]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-21.10.53:079][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.11.10:568][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0
+[2023.03.30-21.11.10:568][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0
+[2023.03.30-21.11.10:568][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_17
+[2023.03.30-21.11.10:568][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0
+[2023.03.30-21.11.10:569][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0
+[2023.03.30-21.11.10:569][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_18
+[2023.03.30-21.11.10:569][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0
+[2023.03.30-21.11.10:569][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0
+[2023.03.30-21.11.10:569][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_19
+[2023.03.30-21.11.17:227][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0
+[2023.03.30-21.11.17:227][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0
+[2023.03.30-21.11.17:228][485]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/bed_victorian_bed_wood_bed_wood_material_0.bed_victorian_bed_wood_bed_wood_material_0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575E7401_1437854216
+[2023.03.30-21.11.17:243][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0
+[2023.03.30-21.11.17:243][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0
+[2023.03.30-21.11.17:244][485]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/bed_victorian_bed_mattres_bed_mattres_material_0.bed_victorian_bed_mattres_bed_mattres_material_0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575E7401_1437870217
+[2023.03.30-21.11.17:258][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0
+[2023.03.30-21.11.17:259][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0
+[2023.03.30-21.11.17:260][485]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/bed_pollows_bed_pillow_material_0.bed_pollows_bed_pillow_material_0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575E7401_1437885218
+[2023.03.30-21.11.43:147][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.30-21.12.47:307][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.12.47:449][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/3/PI/CWTY36IABGYNIG9MBURGNJ
+[2023.03.30-21.12.47:449][412]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/CWTY36IABGYNIG9MBURGNJ17670A494DD191362A4A499EC1FACE8E.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/3/PI/CWTY36IABGYNIG9MBURGNJ.uasset'
+[2023.03.30-21.12.47:451][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/5/9V/XHX6YREVHDHFNN07426KXV
+[2023.03.30-21.12.47:451][412]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/XHX6YREVHDHFNN07426KXV4A3489F147F61EA89DE3378987A000BC.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/5/9V/XHX6YREVHDHFNN07426KXV.uasset'
+[2023.03.30-21.12.47:453][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Layout/0/QP/GQ2J7P312X6A198QIS2XMZ
+[2023.03.30-21.12.47:453][412]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/GQ2J7P312X6A198QIS2XMZF2D102F3462B6F2CD07AF5AD1C709470.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/0/QP/GQ2J7P312X6A198QIS2XMZ.uasset'
+[2023.03.30-21.12.47:462][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 16.8 sec)
+[2023.03.30-21.12.47:466][412]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-21.12.47:466][412]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575E7401_1437885218
+[2023.03.30-21.12.47:466][412]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575E7401_1437870217
+[2023.03.30-21.12.47:466][412]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575E7401_1437854216
