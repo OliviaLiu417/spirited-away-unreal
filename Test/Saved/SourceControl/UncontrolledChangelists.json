@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/pink_pillow_Mat.uasset",
+				"C:/Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/round_table_cloth_Mat.uasset",
 				"C:/Users/liux36/Documents/Unreal Projects/spirited-away-unreal/Test/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/liux36/Documents/Unreal Projects/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/D/TD/JC6OKX48UOCHEERCA1BG99.uasset",
 				"C:/Users/liux36/Documents/Unreal Projects/spirited-away-unreal/Test/Content/__ExternalActors__/StarterContent/Layout/8/ER/DBIFHSDFS0L26LHLD2Q9TX.uasset",
