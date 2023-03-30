@@ -1855,3 +1855,461 @@ Please see Output Log for details.
 [2023.03.30-20.38.33:353][150]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.03.30-20.38.56:390][852]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.03.30-20.39.01:729][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.30-20.41.24:178][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Meshes/giftbox.fbx)
+[2023.03.30-20.41.24:184][455]LogFbx: Loading FBX Scene from ../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Meshes/giftbox.fbx
+[2023.03.30-20.41.24:192][455]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.41.25:650][455]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-20.41.25:711][455]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes
+[2023.03.30-20.41.25:711][455]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes
+[2023.03.30-20.41.25:712][455]LogStaticMesh: Display: Building static mesh giftbox_Box_low__0...
+[2023.03.30-20.41.25:715][455]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0
+[2023.03.30-20.41.25:723][455]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes
+[2023.03.30-20.41.25:723][455]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes
+[2023.03.30-20.41.25:725][455]LogStaticMesh: Display: Building static mesh giftbox_Bow1_low__0...
+[2023.03.30-20.41.25:729][455]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/giftbox_Bow1_low__0.giftbox_Bow1_low__0
+[2023.03.30-20.41.25:736][455]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes
+[2023.03.30-20.41.25:736][455]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes
+[2023.03.30-20.41.25:739][455]LogStaticMesh: Display: Building static mesh giftbox_Bow2_low__0...
+[2023.03.30-20.41.25:747][455]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/giftbox_Bow2_low__0.giftbox_Bow2_low__0
+[2023.03.30-20.41.25:755][455]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes
+[2023.03.30-20.41.25:755][455]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes
+[2023.03.30-20.41.25:756][455]LogStaticMesh: Display: Building static mesh giftbox_Bow3_low__0...
+[2023.03.30-20.41.25:763][455]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/giftbox_Bow3_low__0.giftbox_Bow3_low__0
+[2023.03.30-20.41.25:779][455]FBXImport: FBX File Loading: Found name clash, node 'RootNode' was renamed to 'RootNode1' 
+[2023.03.30-20.41.25:779][455]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Meshes' was renamed 'Meshes_ncl1_1' 
+[2023.03.30-20.41.25:779][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-20.41.29:421][588]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.41.29:429][588]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.42.36:813][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow1_low__0.giftbox_Bow1_low__0
+[2023.03.30-20.42.36:813][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow1_low__0.giftbox_Bow1_low__0
+[2023.03.30-20.42.36:814][715]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox_Bow1_low__0.giftbox_Bow1_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_8
+[2023.03.30-20.42.36:814][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow2_low__0.giftbox_Bow2_low__0
+[2023.03.30-20.42.36:814][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow2_low__0.giftbox_Bow2_low__0
+[2023.03.30-20.42.36:814][715]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox_Bow2_low__0.giftbox_Bow2_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_9
+[2023.03.30-20.42.36:814][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow3_low__0.giftbox_Bow3_low__0
+[2023.03.30-20.42.36:814][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow3_low__0.giftbox_Bow3_low__0
+[2023.03.30-20.42.36:815][715]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox_Bow3_low__0.giftbox_Bow3_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_10
+[2023.03.30-20.42.36:815][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0
+[2023.03.30-20.42.36:815][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0
+[2023.03.30-20.42.36:815][715]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_11
+[2023.03.30-20.42.38:399][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow1_low__0.giftbox_Bow1_low__0
+[2023.03.30-20.42.38:399][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow1_low__0.giftbox_Bow1_low__0
+[2023.03.30-20.42.38:401][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox_Bow1_low__0.giftbox_Bow1_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1866509855
+[2023.03.30-20.42.38:417][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow2_low__0.giftbox_Bow2_low__0
+[2023.03.30-20.42.38:417][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow2_low__0.giftbox_Bow2_low__0
+[2023.03.30-20.42.38:418][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox_Bow2_low__0.giftbox_Bow2_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1866527856
+[2023.03.30-20.42.38:433][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow3_low__0.giftbox_Bow3_low__0
+[2023.03.30-20.42.38:433][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Bow3_low__0.giftbox_Bow3_low__0
+[2023.03.30-20.42.38:433][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox_Bow3_low__0.giftbox_Bow3_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1866543857
+[2023.03.30-20.42.38:448][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0
+[2023.03.30-20.42.38:449][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0
+[2023.03.30-20.42.38:449][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575C7401_1866558858
+[2023.03.30-20.42.42:686][952]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.30-20.42.45:418][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.30-20.43.05:854][544]LogSlate: Window 'round_table_Plane_Cloth_0' being destroyed
+[2023.03.30-20.43.06:057][544]LogSlate: Window 'round_table_Plane_Cloth_0' being destroyed
+[2023.03.30-20.43.06:112][544]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.43.06:112][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.43.06:159][544]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.43.06:159][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.43.06:194][544]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.43.06:194][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.43.06:230][544]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.43.06:230][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.43.10:720][660]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Meshes/Material_001.Material_001
+[2023.03.30-20.43.10:725][660]LogMaterial: Warning: [AssetLog] /Engine/Transient.Material_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2023.03.30-20.43.10:745][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.43.11:051][660]LogMaterial: Warning: [AssetLog] /Engine/Transient.Material_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2023.03.30-20.43.11:075][660]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.03.30-20.43.11:084][660]LogSlate: Took 0.005171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.30-20.43.11:088][660]LogViewport: Scene viewport resized to 242x267, mode Windowed.
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Total job queries 7119, among them cache hits 15 (0.21%)
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Tracking 7102 distinct input hashes that result in 5207 distinct outputs (73.32%)
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: RAM used: 48.89 MB (0.05 GB) of 819.20 MB (0.80 GB) budget. Usage: 5.97%
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Shaders Compiled: 7102
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Jobs assigned 7104, completed 7102 (99.97%)
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Average time worker was idle: 21.53 s
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Time job spent in pending queue: average 230.05 s, longest 476.38 s
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Job execution time: average 6.13 s, max 32.24 s
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Job life time (pending + execution): average 236.24 s, max 487.26
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 527.60 s
+[2023.03.30-20.43.12:952][695]LogShaderCompilers: Display: Jobs were issued in 882 batches (only local compilation was used), average 8.05 jobs/batch
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display: Average processing rate: 13.46 jobs/sec
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display: Total thread time: 4397.66 s
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display: Total thread preprocess time: 231.44 s
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display: Percentage time preprocessing: 5.26%
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display: Effective parallelization: 8.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 11.01 sec, max 23.96 sec, min 2.09 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    2 times, average 7.95 sec, max 9.01 sec, min 6.89 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.76 sec, max 9.51 sec, min 2.12 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.97 sec, max 6.05 sec, min 2.67 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.64% of total time (compiled  150 times, average 1.95 sec, max 2.45 sec, min 1.65 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.57% of total time (compiled  192 times, average 1.05 sec, max 1.79 sec, min 0.65 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 3.81% of total time (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:                 FLumenScreenProbeGatherHardwareRayTracingRGS - 3.35% of total time (compiled   64 times, average 2.30 sec, max 4.23 sec, min 0.93 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 2.64% of total time (compiled  256 times, average 0.45 sec, max 0.78 sec, min 0.29 sec)
+[2023.03.30-20.43.12:953][695]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.43.22:394][996]LogSlate: Window 'Material_001' being destroyed
+[2023.03.30-20.43.22:400][996]LogSlate: Window 'Material_001' being destroyed
+[2023.03.30-20.43.22:413][996]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.43.22:413][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.43.26:230][115]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0
+[2023.03.30-20.43.26:296][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.43.26:545][115]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-20.43.52:181][698]LogSlate: Window 'giftbox_Box_low__0' being destroyed
+[2023.03.30-20.43.52:187][698]LogSlate: Window 'giftbox_Box_low__0' being destroyed
+[2023.03.30-20.43.52:214][698]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.43.52:214][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.44.36:110][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.30-20.44.36:117][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/StarterContent/Layout/0/BY/RXHYX5KOV5FGE4ACEMG77W_Auto4
+[2023.03.30-20.44.36:117][893]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/RXHYX5KOV5FGE4ACEMG77W_Auto4B0C144B9415412FBED349EB6EF087613.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/__ExternalActors__/StarterContent/Layout/0/BY/RXHYX5KOV5FGE4ACEMG77W_Auto4.uasset'
+[2023.03.30-20.44.36:121][893]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Layout' took 0.030
+[2023.03.30-20.44.36:121][893]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2023.03.30-20.44.36:121][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/round_table_Cylinder_001_Body_0] ([1] browsable assets)...
+[2023.03.30-20.44.36:224][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/round_table_Cylinder_001_Body_0.round_table_Cylinder_001_Body_0]
+[2023.03.30-20.44.36:224][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/round_table_Cylinder_001_Body_0]
+[2023.03.30-20.44.36:227][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/round_table_Cylinder_001_Body_0_Auto4
+[2023.03.30-20.44.36:227][893]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/round_table_Cylinder_001_Body_0_3876AF11499F7D3BAD4D019E90DF7DAE.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/round_table_Cylinder_001_Body_0_Auto4.uasset'
+[2023.03.30-20.44.36:229][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/round_table_Plane_Cloth_0] ([1] browsable assets)...
+[2023.03.30-20.44.36:258][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/round_table_Plane_Cloth_0.round_table_Plane_Cloth_0]
+[2023.03.30-20.44.36:259][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/round_table_Plane_Cloth_0]
+[2023.03.30-20.44.36:265][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/round_table_Plane_Cloth_0_Auto4
+[2023.03.30-20.44.36:266][893]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/round_table_Plane_Cloth_0_Auto45CA13070415CD0B309653E8072EEDA9F.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/round_table_Plane_Cloth_0_Auto4.uasset'
+[2023.03.30-20.44.36:267][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/giftbox_Box_low__0] ([1] browsable assets)...
+[2023.03.30-20.44.36:277][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/giftbox_Box_low__0.giftbox_Box_low__0]
+[2023.03.30-20.44.36:277][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/giftbox_Box_low__0]
+[2023.03.30-20.44.36:280][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/giftbox_Box_low__0_Auto4
+[2023.03.30-20.44.36:280][893]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox_Box_low__0_Auto417A550CC4ED5F4E11E922786BF55B90C.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/giftbox_Box_low__0_Auto4.uasset'
+[2023.03.30-20.44.36:280][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/giftbox_Bow1_low__0] ([1] browsable assets)...
+[2023.03.30-20.44.36:291][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/giftbox_Bow1_low__0.giftbox_Bow1_low__0]
+[2023.03.30-20.44.36:291][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/giftbox_Bow1_low__0]
+[2023.03.30-20.44.36:294][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/giftbox_Bow1_low__0_Auto4
+[2023.03.30-20.44.36:294][893]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox_Bow1_low__0_Auto46B33389A4822B8970AF744BCCE92E25A.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/giftbox_Bow1_low__0_Auto4.uasset'
+[2023.03.30-20.44.36:296][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/giftbox_Bow2_low__0] ([1] browsable assets)...
+[2023.03.30-20.44.36:365][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/giftbox_Bow2_low__0.giftbox_Bow2_low__0]
+[2023.03.30-20.44.36:366][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/giftbox_Bow2_low__0]
+[2023.03.30-20.44.36:369][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/giftbox_Bow2_low__0_Auto4
+[2023.03.30-20.44.36:369][893]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox_Bow2_low__0_Auto41B017F48458F90CDC73C1D8C18025E3C.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/giftbox_Bow2_low__0_Auto4.uasset'
+[2023.03.30-20.44.36:370][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/giftbox_Bow3_low__0] ([1] browsable assets)...
+[2023.03.30-20.44.36:379][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/giftbox_Bow3_low__0.giftbox_Bow3_low__0]
+[2023.03.30-20.44.36:379][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/giftbox_Bow3_low__0]
+[2023.03.30-20.44.36:382][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/giftbox_Bow3_low__0_Auto4
+[2023.03.30-20.44.36:382][893]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox_Bow3_low__0_Auto47186C0174EAD1869AF0BC7866A59B36D.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/giftbox_Bow3_low__0_Auto4.uasset'
+[2023.03.30-20.44.36:383][893]LogFileHelpers: Auto-saving content packages took 0.262
+[2023.03.30-20.47.45:343][620]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Blender/desk.fbx)
+[2023.03.30-20.47.45:353][620]LogFbx: Loading FBX Scene from ../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Blender/desk.fbx
+[2023.03.30-20.47.45:393][620]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.47.46:539][620]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-20.47.46:599][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:600][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:600][620]LogStaticMesh: Display: Building static mesh desk_Object_4...
+[2023.03.30-20.47.46:603][620]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/desk_Object_4.desk_Object_4
+[2023.03.30-20.47.46:612][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:613][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:613][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:650][620]LogStaticMesh: Display: Building static mesh desk_defaultMaterial...
+[2023.03.30-20.47.46:735][620]LogStaticMesh: Built static mesh [0.09s] /Game/Meshes/desk_defaultMaterial.desk_defaultMaterial
+[2023.03.30-20.47.46:769][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:769][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:770][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:770][620]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Blender
+[2023.03.30-20.47.46:938][620]LogStaticMesh: Display: Building static mesh desk_defaultMaterial_001...
+[2023.03.30-20.47.47:483][620]LogStaticMesh: Built static mesh [0.54s] /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.47.47:713][620]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blender' was renamed 'Blender_ncl1_1' 
+[2023.03.30-20.47.47:713][620]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blender' was renamed 'Blender_ncl1_2' 
+[2023.03.30-20.47.47:713][620]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blender' was renamed 'Blender_ncl1_3' 
+[2023.03.30-20.47.47:713][620]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blender' was renamed 'Blender_ncl1_4' 
+[2023.03.30-20.47.47:713][620]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blender' was renamed 'Blender_ncl1_5' 
+[2023.03.30-20.47.47:713][620]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blender' was renamed 'Blender_ncl1_6' 
+[2023.03.30-20.47.47:713][620]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blender' was renamed 'Blender_ncl1_7' 
+[2023.03.30-20.47.47:713][620]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blender' was renamed 'Blender_ncl1_8' 
+[2023.03.30-20.47.58:377][ 64]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.47.58:382][ 64]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.48.17:723][714]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.48.18:158][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.48.18:422][714]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-20.48.47:627][402]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/desk_defaultMaterial.desk_defaultMaterial
+[2023.03.30-20.48.47:635][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.48.47:912][402]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-20.48.53:735][441]LogSlate: Window 'desk_defaultMaterial' being destroyed
+[2023.03.30-20.48.53:892][441]LogSlate: Window 'desk_defaultMaterial' being destroyed
+[2023.03.30-20.48.53:927][441]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.48.53:927][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.48.53:959][441]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.48.53:959][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.49.23:277][711]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.49.23:692][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.49.23:937][711]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-20.49.33:399][118]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Desk_holder_low_BookshelfMaterial_0_001.Desk_holder_low_BookshelfMaterial_0_001
+[2023.03.30-20.49.33:406][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.49.33:806][118]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-20.49.41:599][206]LogSlate: Window 'Desk_holder_low_BookshelfMaterial_0_001' being destroyed
+[2023.03.30-20.49.41:605][206]LogSlate: Window 'Desk_holder_low_BookshelfMaterial_0_001' being destroyed
+[2023.03.30-20.49.41:630][206]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.49.41:630][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.49.41:663][206]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.49.41:663][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.49.43:555][281]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.49.43:985][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.49.44:225][281]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Total job queries 7129, among them cache hits 19 (0.27%)
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Tracking 7105 distinct input hashes that result in 5209 distinct outputs (73.31%)
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: RAM used: 48.90 MB (0.05 GB) of 819.20 MB (0.80 GB) budget. Usage: 5.97%
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Shaders Compiled: 7105
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Jobs assigned 7110, completed 7105 (99.93%)
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Average time worker was idle: 25.28 s
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Time job spent in pending queue: average 229.86 s, longest 476.38 s
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Job execution time: average 6.12 s, max 32.24 s
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Job life time (pending + execution): average 236.15 s, max 487.26
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 528.47 s
+[2023.03.30-20.49.47:519][352]LogShaderCompilers: Display: Jobs were issued in 888 batches (only local compilation was used), average 8.01 jobs/batch
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display: Average processing rate: 13.44 jobs/sec
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display: Total thread time: 4399.45 s
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display: Total thread preprocess time: 231.76 s
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display: Percentage time preprocessing: 5.27%
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display: Effective parallelization: 8.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 11.01 sec, max 23.96 sec, min 2.09 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    2 times, average 7.95 sec, max 9.01 sec, min 6.89 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.76 sec, max 9.51 sec, min 2.12 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.97 sec, max 6.05 sec, min 2.67 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.64% of total time (compiled  150 times, average 1.95 sec, max 2.45 sec, min 1.65 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.56% of total time (compiled  192 times, average 1.05 sec, max 1.79 sec, min 0.65 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 3.81% of total time (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:                 FLumenScreenProbeGatherHardwareRayTracingRGS - 3.34% of total time (compiled   64 times, average 2.30 sec, max 4.23 sec, min 0.93 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 2.64% of total time (compiled  256 times, average 0.45 sec, max 0.78 sec, min 0.29 sec)
+[2023.03.30-20.49.47:520][352]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.49.52:283][452]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/desk_defaultMaterial_001) ...
+[2023.03.30-20.50.04:170][831]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/desk_defaultMaterial_001) ...
+[2023.03.30-20.50.50:089][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-20.50.50:357][341]LogSavePackage: Moving output files for package: /Game/Meshes/desk_defaultMaterial_001
+[2023.03.30-20.50.50:357][341]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/desk_defaultMaterial_0018F999B2F408EC3E6397ECB8726C40E68.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/desk_defaultMaterial_001.uasset'
+[2023.03.30-20.50.50:365][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 8.22 sec)
+[2023.03.30-20.50.50:369][341]AssetCheck: New page: Asset Save: desk_defaultMaterial_001
+[2023.03.30-20.50.50:369][341]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.50.53:017][363]LogSlate: Window 'desk_defaultMaterial_001' being destroyed
+[2023.03.30-20.50.53:144][363]LogSlate: Window 'desk_defaultMaterial_001' being destroyed
+[2023.03.30-20.50.53:174][363]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.50.53:174][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.53.09:461][229]LogDerivedDataCache: C:/Users/yangr4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.102 and deleted 0 files with total size 0 MiB. Scanned 1381 files in 1378 folders with total size 57 MiB.
+[2023.03.30-20.53.31:062][464]Cmd: DELETE
+[2023.03.30-20.53.31:062][464]Cmd: ACTOR DELETE
+[2023.03.30-20.53.31:065][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-20.53.31:106][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.30-20.53.31:112][464]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2023.03.30-20.53.37:018][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.53.37:018][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.53.37:018][611]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_12
+[2023.03.30-20.53.39:976][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.53.39:976][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001
+[2023.03.30-20.53.39:977][702]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/desk_defaultMaterial_001.desk_defaultMaterial_001 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1454345035
+[2023.03.30-20.54.37:611][815]Cmd: TRANSACTION UNDO
+[2023.03.30-20.54.37:612][815]LogEditorTransaction: Undo Move Elements
+[2023.03.30-20.54.42:006][994]Cmd: TRANSACTION UNDO
+[2023.03.30-20.54.42:006][994]LogEditorTransaction: Undo Move Elements
+[2023.03.30-20.54.52:192][442]Cmd: TRANSACTION UNDO
+[2023.03.30-20.54.52:192][442]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.30-20.56.51:131][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.30-20.56.51:136][619]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Layout' took 0.015
+[2023.03.30-20.56.51:136][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/desk_Object_4] ([1] browsable assets)...
+[2023.03.30-20.56.51:244][619]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/desk_Object_4.desk_Object_4]
+[2023.03.30-20.56.51:244][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/desk_Object_4]
+[2023.03.30-20.56.51:247][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/desk_Object_4_Auto5
+[2023.03.30-20.56.51:247][619]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/desk_Object_4_Auto54EFDC7F24669A2218AD595BCD5A1C61E.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/desk_Object_4_Auto5.uasset'
+[2023.03.30-20.56.51:248][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/desk_defaultMaterial] ([1] browsable assets)...
+[2023.03.30-20.56.51:258][619]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/desk_defaultMaterial.desk_defaultMaterial]
+[2023.03.30-20.56.51:258][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/desk_defaultMaterial]
+[2023.03.30-20.56.51:265][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/desk_defaultMaterial_Auto5
+[2023.03.30-20.56.51:265][619]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/desk_defaultMaterial_Auto5C26AB20F44A5097C02FEB5BA5D3F66CA.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/Autosaves/Game/Meshes/desk_defaultMaterial_Auto5.uasset'
+[2023.03.30-20.56.51:266][619]LogFileHelpers: Auto-saving content packages took 0.130
+[2023.03.30-20.58.21:115][ 10]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Meshes/giftbox1.fbx)
+[2023.03.30-20.58.21:121][ 10]LogFbx: Loading FBX Scene from ../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Meshes/giftbox1.fbx
+[2023.03.30-20.58.21:131][ 10]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.58.50:783][ 10]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-20.58.50:903][ 10]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.30-20.58.50:913][ 10]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes\giftbox1.fbm
+[2023.03.30-20.58.50:915][ 10]LogTexture: Display: Building textures: /Game/Meshes/giftbox1.giftbox1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.30-20.58.51:022][ 10]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.30-20.58.51:031][ 10]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes\giftbox1.fbm
+[2023.03.30-20.58.51:033][ 10]LogTexture: Display: Building textures: /Game/Meshes/giftbox1.giftbox1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.30-20.58.51:134][ 10]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.30-20.58.51:144][ 10]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes\giftbox1.fbm
+[2023.03.30-20.58.51:146][ 10]LogTexture: Display: Building textures: /Game/Meshes/giftbox1.giftbox1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.30-20.58.51:249][ 10]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.03.30-20.58.51:258][ 10]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\yangr4\Documents\GitHub\spirited-away-unreal\Meshes\giftbox1.fbm
+[2023.03.30-20.58.51:260][ 10]LogTexture: Display: Building textures: /Game/Meshes/giftbox1.giftbox1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.30-20.58.51:297][ 10]FBXImport: FBX File Loading: Found name clash, node 'RootNode' was renamed to 'RootNode1' 
+[2023.03.30-20.58.51:297][ 10]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'giftbox1' was renamed 'giftbox1_ncl1_1' 
+[2023.03.30-20.58.51:297][ 10]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-20.58.53:769][120]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.58.53:773][120]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.59.02:216][422]LogContentBrowser: Deferred new asset file creation: giftbox1_Mat
+[2023.03.30-20.59.02:238][422]LogContentBrowser: Creating deferred item: giftbox1_Mat
+[2023.03.30-20.59.02:248][423]LogContentBrowser: Renaming the item being created (Deferred Item: giftbox1_Mat).
+[2023.03.30-20.59.04:033][496]LogContentBrowser: Attempting asset rename: giftbox1_Mat -> giftbox1_Mat
+[2023.03.30-20.59.04:074][496]LogContentBrowser: End creating deferred item giftbox1_Mat
+[2023.03.30-20.59.05:629][561]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.59.05:629][561]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Total job queries 7235, among them cache hits 19 (0.26%)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Tracking 7213 distinct input hashes that result in 5261 distinct outputs (72.94%)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: RAM used: 49.51 MB (0.05 GB) of 819.20 MB (0.80 GB) budget. Usage: 6.04%
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Shaders Compiled: 7213
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Jobs assigned 7216, completed 7213 (99.96%)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Average time worker was idle: 26.82 s
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Time job spent in pending queue: average 226.52 s, longest 476.38 s
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Job execution time: average 6.05 s, max 32.24 s
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Job life time (pending + execution): average 232.65 s, max 487.26
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 543.57 s
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Jobs were issued in 994 batches (only local compilation was used), average 7.26 jobs/batch
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Average processing rate: 13.27 jobs/sec
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Total thread time: 4466.76 s
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Total thread preprocess time: 235.74 s
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Percentage time preprocessing: 5.28%
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Effective parallelization: 8.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 11.01 sec, max 23.96 sec, min 2.09 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    2 times, average 7.95 sec, max 9.01 sec, min 6.89 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.76 sec, max 9.51 sec, min 2.12 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.97 sec, max 6.05 sec, min 2.67 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.54% of total time (compiled  150 times, average 1.95 sec, max 2.45 sec, min 1.65 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.50% of total time (compiled  192 times, average 1.05 sec, max 1.79 sec, min 0.65 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 3.75% of total time (compiled   48 times, average 3.49 sec, max 4.42 sec, min 3.04 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:                 FLumenScreenProbeGatherHardwareRayTracingRGS - 3.29% of total time (compiled   64 times, average 2.30 sec, max 4.23 sec, min 0.93 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 2.60% of total time (compiled  256 times, average 0.45 sec, max 0.78 sec, min 0.29 sec)
+[2023.03.30-20.59.05:630][561]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.59.10:666][683]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/giftbox1_Bow3_low__0.giftbox1_Bow3_low__0
+[2023.03.30-20.59.10:920][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.59.11:172][683]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-20.59.26:670][925]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/giftbox1_Box_low__0.giftbox1_Box_low__0
+[2023.03.30-20.59.26:676][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.59.26:924][925]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-20.59.49:710][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-20.59.49:858][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/giftbox1_Bow3_low__0" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Bow3_low__0.uasset" SILENT=true
+[2023.03.30-20.59.49:861][548]LogSavePackage: Moving output files for package: /Game/Meshes/giftbox1_Bow3_low__0
+[2023.03.30-20.59.49:861][548]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox1_Bow3_low__0C30B39354B168E03064E6A8B5FCCA861.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Bow3_low__0.uasset'
+[2023.03.30-20.59.49:869][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 8.38 sec)
+[2023.03.30-20.59.49:872][548]AssetCheck: New page: Asset Save: giftbox1_Bow3_low__0
+[2023.03.30-20.59.49:872][548]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/giftbox1_Bow3_low__0.giftbox1_Bow3_low__0
+[2023.03.30-20.59.51:383][601]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.59.51:383][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.00.06:739][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.00.09:069][ 76]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.30-21.00.09:520][ 76]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002090s (0.453213s overbudget)
+[2023.03.30-21.00.09:627][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/giftbox1_Mat" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Mat.uasset" SILENT=true
+[2023.03.30-21.00.09:630][ 76]LogSavePackage: Moving output files for package: /Game/Meshes/giftbox1_Mat
+[2023.03.30-21.00.09:630][ 76]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox1_MatCB72442F4E1F35F810F2C280A06D3392.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Mat.uasset'
+[2023.03.30-21.00.09:637][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.89 sec (total: 11.2 sec)
+[2023.03.30-21.00.09:640][ 76]AssetCheck: New page: Asset Save: giftbox1_Mat
+[2023.03.30-21.00.09:640][ 76]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/giftbox1_Mat.giftbox1_Mat
+[2023.03.30-21.00.12:102][ 85]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/giftbox1_Bow2_low__0.giftbox1_Bow2_low__0
+[2023.03.30-21.00.12:106][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-21.00.12:359][ 85]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-21.00.23:786][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.00.23:859][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/giftbox1_Mat" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Mat.uasset" SILENT=true
+[2023.03.30-21.00.23:860][226]LogSavePackage: Moving output files for package: /Game/Meshes/giftbox1_Mat
+[2023.03.30-21.00.23:860][226]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox1_MatF5A832EE4369E65BA6D21A8E8986505B.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Mat.uasset'
+[2023.03.30-21.00.23:866][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 11.3 sec)
+[2023.03.30-21.00.23:869][226]AssetCheck: New page: Asset Save: giftbox1_Mat
+[2023.03.30-21.00.23:869][226]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/giftbox1_Mat.giftbox1_Mat
+[2023.03.30-21.00.27:640][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.00.27:726][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/giftbox1_Mat" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Mat.uasset" SILENT=true
+[2023.03.30-21.00.27:727][360]LogSavePackage: Moving output files for package: /Game/Meshes/giftbox1_Mat
+[2023.03.30-21.00.27:728][360]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox1_Mat82950E064F2875A57E62F4BF93122FE5.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Mat.uasset'
+[2023.03.30-21.00.27:734][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 11.4 sec)
+[2023.03.30-21.00.27:737][360]AssetCheck: New page: Asset Save: giftbox1_Mat
+[2023.03.30-21.00.27:737][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/giftbox1_Mat.giftbox1_Mat
+[2023.03.30-21.00.31:358][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.00.31:464][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/giftbox1_Mat" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Mat.uasset" SILENT=true
+[2023.03.30-21.00.31:465][481]LogSavePackage: Moving output files for package: /Game/Meshes/giftbox1_Mat
+[2023.03.30-21.00.31:466][481]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox1_MatD63CA7E044447E99D9221F86A4B7F93F.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Mat.uasset'
+[2023.03.30-21.00.31:474][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 11.5 sec)
+[2023.03.30-21.00.31:478][481]AssetCheck: New page: Asset Save: giftbox1_Mat
+[2023.03.30-21.00.31:478][481]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Meshes/giftbox1_Mat.giftbox1_Mat
+[2023.03.30-21.00.33:082][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.00.33:626][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/giftbox1_Bow2_low__0" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Bow2_low__0.uasset" SILENT=true
+[2023.03.30-21.00.33:630][530]LogSavePackage: Moving output files for package: /Game/Meshes/giftbox1_Bow2_low__0
+[2023.03.30-21.00.33:630][530]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox1_Bow2_low__0190559ED4718D0E58C2AC6AF44A21717.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Bow2_low__0.uasset'
+[2023.03.30-21.00.33:638][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 555 ms (total: 12.1 sec)
+[2023.03.30-21.00.33:641][530]AssetCheck: New page: Asset Save: giftbox1_Bow2_low__0
+[2023.03.30-21.00.33:641][530]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/giftbox1_Bow2_low__0.giftbox1_Bow2_low__0
+[2023.03.30-21.00.35:689][546]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-21.00.35:689][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.00.37:346][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.00.37:499][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/giftbox1_Box_low__0" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Box_low__0.uasset" SILENT=true
+[2023.03.30-21.00.37:501][591]LogSavePackage: Moving output files for package: /Game/Meshes/giftbox1_Box_low__0
+[2023.03.30-21.00.37:501][591]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox1_Box_low__0D92F99024EC913013E0D85AC1C135454.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Box_low__0.uasset'
+[2023.03.30-21.00.37:509][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 12.2 sec)
+[2023.03.30-21.00.37:512][591]AssetCheck: New page: Asset Save: giftbox1_Box_low__0
+[2023.03.30-21.00.37:512][591]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/giftbox1_Box_low__0.giftbox1_Box_low__0
+[2023.03.30-21.00.38:698][634]LogSlate: Window 'giftbox1_Box_low__0' being destroyed
+[2023.03.30-21.00.38:728][634]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-21.00.38:728][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.00.42:360][765]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/giftbox1_Bow1_low__0.giftbox1_Bow1_low__0
+[2023.03.30-21.00.42:785][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-21.00.43:039][765]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.03.30-21.00.53:853][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.30-21.00.54:115][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/giftbox1_Bow1_low__0" FILE="../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Bow1_low__0.uasset" SILENT=true
+[2023.03.30-21.00.54:119][  0]LogSavePackage: Moving output files for package: /Game/Meshes/giftbox1_Bow1_low__0
+[2023.03.30-21.00.54:119][  0]LogSavePackage: Moving '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Saved/giftbox1_Bow1_low__0D2321F1F4D72709E77FB60BA695D33EF.tmp' to '../../../../../../Users/yangr4/Documents/GitHub/spirited-away-unreal/Test/Content/Meshes/giftbox1_Bow1_low__0.uasset'
+[2023.03.30-21.00.54:126][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms (total: 12.5 sec)
+[2023.03.30-21.00.54:129][  0]AssetCheck: New page: Asset Save: giftbox1_Bow1_low__0
+[2023.03.30-21.00.54:129][  0]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/giftbox1_Bow1_low__0.giftbox1_Bow1_low__0
+[2023.03.30-21.00.56:702][ 17]LogSlate: Window 'giftbox1_Bow1_low__0' being destroyed
+[2023.03.30-21.00.56:884][ 17]LogSlate: Window 'giftbox1_Bow1_low__0' being destroyed
+[2023.03.30-21.00.56:911][ 17]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-21.00.56:911][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-21.02.04:305][477]Cmd: DELETE
+[2023.03.30-21.02.04:305][477]Cmd: ACTOR DELETE
+[2023.03.30-21.02.04:307][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-21.02.04:308][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-21.02.04:308][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-21.02.04:309][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-21.02.04:328][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.30-21.02.04:332][477]LogEditorActor: Deleted 4 Actors (0.026 secs)
+[2023.03.30-21.02.12:066][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Box_low__0.giftbox1_Box_low__0
+[2023.03.30-21.02.12:066][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Box_low__0.giftbox1_Box_low__0
+[2023.03.30-21.02.12:066][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox1_Box_low__0.giftbox1_Box_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_13
+[2023.03.30-21.02.12:066][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow1_low__0.giftbox1_Bow1_low__0
+[2023.03.30-21.02.12:066][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow1_low__0.giftbox1_Bow1_low__0
+[2023.03.30-21.02.12:067][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox1_Bow1_low__0.giftbox1_Bow1_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_14
+[2023.03.30-21.02.12:067][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow2_low__0.giftbox1_Bow2_low__0
+[2023.03.30-21.02.12:067][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow2_low__0.giftbox1_Bow2_low__0
+[2023.03.30-21.02.12:067][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox1_Bow2_low__0.giftbox1_Bow2_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_15
+[2023.03.30-21.02.12:067][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow3_low__0.giftbox1_Bow3_low__0
+[2023.03.30-21.02.12:067][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow3_low__0.giftbox1_Bow3_low__0
+[2023.03.30-21.02.12:067][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox1_Bow3_low__0.giftbox1_Bow3_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_16
+[2023.03.30-21.02.12:082][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Box_low__0.giftbox1_Box_low__0
+[2023.03.30-21.02.12:082][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Box_low__0.giftbox1_Box_low__0
+[2023.03.30-21.02.12:083][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox1_Box_low__0.giftbox1_Box_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1966451036
+[2023.03.30-21.02.12:103][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow1_low__0.giftbox1_Bow1_low__0
+[2023.03.30-21.02.12:103][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow1_low__0.giftbox1_Bow1_low__0
+[2023.03.30-21.02.12:104][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox1_Bow1_low__0.giftbox1_Bow1_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1966472037
+[2023.03.30-21.02.12:118][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow2_low__0.giftbox1_Bow2_low__0
+[2023.03.30-21.02.12:118][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow2_low__0.giftbox1_Bow2_low__0
+[2023.03.30-21.02.12:119][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox1_Bow2_low__0.giftbox1_Bow2_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1966487038
+[2023.03.30-21.02.12:133][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow3_low__0.giftbox1_Bow3_low__0
+[2023.03.30-21.02.12:133][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/giftbox1_Bow3_low__0.giftbox1_Bow3_low__0
+[2023.03.30-21.02.12:134][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/giftbox1_Bow3_low__0.giftbox1_Bow3_low__0 as actor: StaticMeshActor /Game/StarterContent/Layout.Layout:PersistentLevel.StaticMeshActor_UAID_B88584B5A1575D7401_1966502039
+[2023.03.30-21.02.50:341][910]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.30-21.02.53:718][995]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.30-21.02.55:090][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.30-21.03.01:732][196]Cmd: TRANSACTION UNDO
+[2023.03.30-21.03.01:732][196]LogEditorTransaction: Undo Move Elements
